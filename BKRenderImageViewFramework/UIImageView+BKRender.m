@@ -1,11 +1,3 @@
-//
-//  UIImageView+BKRender.m
-//  BKRenderImageView
-//
-//  Created by 张加宁 on 2017/6/12.
-//  Copyright © 2017年 BlackKnife. All rights reserved.
-//
-
 #import "UIImageView+BKRender.h"
 
 @implementation UIImageView (BKRender)
